@@ -1,0 +1,2 @@
+public class TestKlass2 {
+}
